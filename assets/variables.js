@@ -1,15 +1,15 @@
 const variables = {
   greetings: {
-    morning: "Baik Morning",
-    day: "Good Day",
-    afternoon: "Good Afternoon",
-    evening: "Good Evening",
+    morning: "Selamat Hari Raya Idul Fitri",
+    day: "Selamat Hari Raya Idul Fitri",
+    afternoon: "Selamat Hari Raya Idul Fitri",
+    evening: "Selamat Hari Raya Idul Fitri",
     night: "Selamat Hari Raya Idul Fitri",
   },
   quotes: [
-    { quote: "Mohon Maaf Lahir Dan Batin.", author: "standinhsd" },
+    { quote: "Mohon Maaf Lahir Dan Batin.", author: "wir" },
   ],
-  nicknames: ["Ava", "Avakuu", "Sayang", "Babe", "Cintaku", "Cinta"],
+  nicknames: ["Haloo"],
   generated: ["{greetings}, {nicknames}!"],
 };
 
